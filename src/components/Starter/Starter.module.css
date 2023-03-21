@@ -1,0 +1,782 @@
+.mobileMobileHeader10.mobileMobileHeader10 {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 600px;
+  height: 131px;
+  align-items: center;
+  padding: 20px 280px 20px 287px;
+  box-shadow: inset 0px -1px 0px #000;
+  backdrop-filter: blur(4.5px);
+}
+.iconsSecurityIcSecuritySecured.iconsSecurityIcSecuritySecured {
+  left: 274.2871px;
+  top: 639px;
+  width: 92.6053px;
+  height: 97.6187px;
+}
+.icSecuritySecuredProfile.icSecuritySecuredProfile {
+  left: 7.5976px;
+  top: 6.1028px;
+  width: 1px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+}
+.root {
+  width: 597px;
+  height: 2568px;
+  max-height: 100%;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e9e9e9;
+  overflow: hidden;
+}
+.group1142812794 {
+  position: relative;
+  width: 600px;
+  height: 131px;
+}
+._50HY_Logotype_SmallUse_RGB_Cop {
+  position: absolute;
+  left: 24%;
+  right: 26.5%;
+  top: 0;
+  bottom: 0;
+  width: 297px;
+  height: 131px;
+  background-image:/* webpackIgnore: true */ url('assets/_50HY_Logotype_SmallUse_RGB_Cop2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.frame399 {
+  position: relative;
+  width: 600px;
+  height: 976px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle283 {
+  position: absolute;
+  left: 0.5px;
+  top: 46px;
+  width: 603px;
+  height: 2830px;
+  background-color: #000;
+}
+.iStock1306636610Min1 {
+  position: absolute;
+  left: calc(50% - 1.3539px);
+  top: calc(50% - 374.5px);
+  width: 614.5541px;
+  height: 935px;
+  background-image:/* webpackIgnore: true */ url('assets/iStock1306636610Min1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 7.130859375px 1px;
+  mask-position: 7.130859375px 1px;
+  -webkit-mask-size: 600px 933.9999389648438px;
+  mask-size: 600px 933.9999389648438px;
+  transform: translate(-50%, -50%);
+}
+.vector32 {
+  position: absolute;
+  left: -910.5px;
+  top: 1294px;
+  width: 431.5px;
+  height: 104px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.aA2I4685Min1 {
+  opacity: 0.1;
+  position: absolute;
+  left: 0.5px;
+  top: 1597px;
+  width: 600px;
+  height: 935px;
+  background-image:/* webpackIgnore: true */ url('assets/aA2I4685Min1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.table {
+  position: absolute;
+  left: -2px;
+  top: -28px;
+  width: 606px;
+  height: 987px;
+  align-items: flex-start;
+  background-color: #000;
+}
+.tbody {
+  position: absolute;
+  left: 0;
+  top: calc(50% - -188.5px);
+  width: 600px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.tbody2 {
+  position: relative;
+  width: 736px;
+  height: 489px;
+}
+.hero_2xJpg {
+  position: absolute;
+  left: -11px;
+  top: -669px;
+  width: 782px;
+  height: 1856px;
+  align-items: flex-start;
+  background-image:/* webpackIgnore: true */ url('assets/hero_2xJpg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.rectangle284 {
+  position: absolute;
+  left: 0;
+  top: 772px;
+  width: 627px;
+  height: 1084px;
+  background-image: linear-gradient(180deg, #0000000d 0%, #000f 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.tbody3 {
+  position: absolute;
+  left: 12px;
+  top: calc(50% - -542.5px);
+  width: 600px;
+  height: 655px;
+  flex-direction: column;
+  align-items: center;
+  gap: 27px;
+  padding: 26px 50px 20px;
+  transform: translateY(-50%);
+}
+.taoAsianBistroNightclubAtTheVe {
+  width: 592px;
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rewardspadding1 {
+  width: 195px;
+  height: 55px;
+  background-image:/* webpackIgnore: true */ url('assets/rewardspadding1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p {
+  width: min-content;
+  height: min-content;
+  padding: 0 116.6172px 1px 115.3828px;
+}
+.pleaseJoinUsAndEnjoyThisSocial {
+  width: 626px;
+  height: 214px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 27.5px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.scrollDownForYourQRCODEInvite {
+  color: #f5f5f7;
+  font-size: 18px;
+  line-height: 23px;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 137px;
+  top: 1621px;
+  width: 347px;
+  height: 52px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cONFIRMATION {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 952px;
+  width: 600px;
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.iNVITE {
+  color: #4b9f46;
+  font-size: 96px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 841px;
+  width: 600px;
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.mARCH29TH530PM830PM {
+  position: absolute;
+  left: 85px;
+  top: 1078px;
+  width: 458px;
+  height: 104px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock10 {
+  color: #f5f5f7;
+  font-size: 35px;
+  line-height: 52px;
+  font-weight: bold;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #f5f5f7;
+  font-size: 35px;
+  line-height: 52px;
+  font-weight: bold;
+  font-family: Helvetica Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.group1142812808 {
+  position: absolute;
+  left: -135.0049px;
+  top: 1582.7695px;
+  width: 807.0052px;
+  height: 1319.2302px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.tbody4 {
+  position: absolute;
+  left: 1px;
+  top: calc(50% - -1042px);
+  width: 600px;
+  height: 664px;
+  flex-direction: column;
+  padding: 0 50px 20px;
+  background-image: linear-gradient(180deg, #00000059 0%, #000f 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  transform: translateY(-50%);
+}
+.vector34 {
+  position: absolute;
+  left: -1390px;
+  top: 1021px;
+  width: 2284.7832px;
+  height: 2435.2105px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.vector33 {
+  position: absolute;
+  left: -760.4999px;
+  top: 719px;
+  width: 2421.2506px;
+  height: 2384.9627px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.frame406 {
+  position: relative;
+  width: 600px;
+  flex: 1;
+  align-items: flex-start;
+  background-color: #000;
+  overflow: hidden;
+}
+.clientsSec {
+  position: absolute;
+  left: -118.7563px;
+  top: -35px;
+  width: 1006.9553px;
+  height: 947.8784px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.image300x300 {
+  position: absolute;
+  left: 0;
+  top: 342.1406px;
+  width: 296px;
+  height: 301.2411px;
+  background-color: #4b9f4600;
+  overflow: hidden;
+}
+.secBG {
+  position: absolute;
+  left: -2px;
+  top: 1301px;
+  width: 606px;
+  height: 858px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.frame4062 {
+  position: absolute;
+  left: -4px;
+  top: 20px;
+  width: 626px;
+  height: 648px;
+  align-items: flex-start;
+  background-color: #000;
+  overflow: hidden;
+}
+.clientsSec2 {
+  position: absolute;
+  left: -174px;
+  top: -14px;
+  width: 956px;
+  height: 701.9947px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group1142812814 {
+  position: absolute;
+  left: -120px;
+  top: 11px;
+  width: 818px;
+  height: 686px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.image1 {
+  position: absolute;
+  left: 191.6802px;
+  top: 224.9141px;
+  width: 218.6214px;
+  height: 218.6214px;
+  background-image:/* webpackIgnore: true */ url('assets/image1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vector {
+  position: absolute;
+  left: 60.5113%;
+  right: 31.5608%;
+  top: 21.9336%;
+  bottom: 70.0854%;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 65.5741%;
+  right: 26.498%;
+  top: 67.1733%;
+  bottom: 24.8457%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 22.8719%;
+  right: 69.2002%;
+  top: 27.4691%;
+  bottom: 64.5498%;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 27.9346%;
+  right: 64.1375%;
+  top: 72.7088%;
+  bottom: 19.3101%;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.iStock916097718Min1 {
+  position: absolute;
+  left: 2.5px;
+  top: 34.5px;
+  width: 599.5px;
+  height: 596px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle90 {
+  position: absolute;
+  left: -236px;
+  top: 511px;
+  width: 857px;
+  height: 1607px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.wELOOKFORWARDTOSEEINGYOU {
+  color: #000;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.105em;
+  position: absolute;
+  left: 152px;
+  top: 768px;
+  width: 337.1783px;
+  height: 96.3672px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.webLogo202212 {
+  position: absolute;
+  left: 146px;
+  top: 688px;
+  width: 306px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('assets/webLogo202212.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pNGBLACKSalientLogoHorizontal1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 377.8633px;
+  top: 924.4492px;
+  width: 91.5033px;
+  height: 19.2157px;
+  background-image:/* webpackIgnore: true */ url('assets/pNGBLACKSalientLogoHorizontal1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.aMAG_Logo1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 96.0322px;
+  top: 897px;
+  width: 62.2223px;
+  height: 60.3922px;
+  background-image:/* webpackIgnore: true */ url('assets/aMAG_Logo1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.genetecLogoHighResolution1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 284.7686px;
+  top: 927.5547px;
+  width: 79.6079px;
+  height: 16.4706px;
+  background-image:/* webpackIgnore: true */ url('assets/genetecLogoHighResolution1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.acreLogoVector1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 21px;
+  top: 917.125px;
+  width: 57.6471px;
+  height: 32.9412px;
+  background-image:/* webpackIgnore: true */ url('assets/acreLogoVector1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.acreLogoVector12 {
+  transform-origin: top left;
+  position: absolute;
+  left: 175.6406px;
+  top: 907.0625px;
+  width: 96.0785px;
+  height: 53.0719px;
+  background-image:/* webpackIgnore: true */ url('assets/acreLogoVector12.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.softwareHouseFromTycoSecurityP {
+  transform-origin: top left;
+  position: absolute;
+  left: 484.0059px;
+  top: 907.9766px;
+  width: 96.9936px;
+  height: 54.902px;
+  background-image:/* webpackIgnore: true */ url('assets/softwareHouseFromTycoSecurityP.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame409 {
+  position: absolute;
+  left: 0;
+  top: 1030px;
+  width: 604px;
+  height: 154px;
+  align-items: flex-start;
+}
+.poweredBySV3VisitorManagementF {
+  position: absolute;
+  left: 5.5px;
+  top: 65px;
+  width: 613px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock12 {
+  color: #000;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 300;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.105em;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 300;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.105em;
+}
+.faviconBI21 {
+  position: absolute;
+  left: 289.5px;
+  top: 0;
+  width: 46px;
+  height: 46px;
+  background-image:/* webpackIgnore: true */ url('assets/faviconBI21.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame410 {
+  position: relative;
+  width: 598px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  background-color: #ededed;
+}
+.headerFooter {
+  width: min-content;
+  height: 241px;
+  flex-direction: column;
+  padding: 48px;
+  background-color: #fff0;
+}
+.frame1 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.paragraph {
+  color: #000;
+  font-size: 16px;
+  line-height: 160%;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 504px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.paragraph2 {
+  color: #000;
+  font-size: 16px;
+  line-height: 160%;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 504px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.paragraph3 {
+  color: #000;
+  font-size: 16px;
+  line-height: 160%;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 504px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.paragraph4 {
+  color: #000;
+  font-size: 10px;
+  line-height: 160%;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 504px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

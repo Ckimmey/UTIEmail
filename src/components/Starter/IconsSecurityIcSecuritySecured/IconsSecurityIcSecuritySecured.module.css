@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.icSecuritySecuredProfile {
+  position: absolute;
+  left: 1.969px;
+  top: 1.5004px;
+  width: 20.0569px;
+  height: 21.025px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
